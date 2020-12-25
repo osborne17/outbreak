@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1608022432 source:e:\project simulator\simuu\src\destination.cpp
+	<bits/stdc++.h>
+	"destination.h"
+
+1608022432 e:\project simulator\simuu\include\destination.h
+
+1608022432 source:e:\project simulator\simuu\src\location.cpp
+	<bits/stdc++.h>
+	"location.h"
+
+1608822565 e:\project simulator\simuu\include\location.h
+
+1608022432 source:e:\project simulator\simuu\src\person.cpp
+	<bits/stdc++.h>
+	"person.h"
+
+1608022432 e:\project simulator\simuu\include\person.h
+
+1608452399 source:e:\project simulator\simuu\main.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	"location.h"
+	"destination.h"
+	"person.h"
+	"mobility.h"
+
+1608022524 e:\project simulator\simuu\include\mobility.h
+
+1608022524 source:e:\project simulator\simuu\src\mobility.cpp
+	"mobility.h"
+	<bits/stdc++.h>
+
